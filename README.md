@@ -1,2 +1,2 @@
-# aoc22
-Advent of Code!
+# Advent of Code
+Python probably.
